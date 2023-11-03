@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @KishoreK214
-- 🌱 I’m currently learning ...
-- 💞️ 
+<h2> 👋 Hi, I’m @KishoreK214 💞️</h2> 
 
 <!---
 KishoreK214/KishoreK214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
